@@ -19,4 +19,4 @@ d1_f.write(';'.join(map(str, np_data1.flatten())) + "\n")
 
 When conducting further data analysis, it is essential to pay attention to data format issues.
 
-Specifically, our implementation of the square wave mechanism is based on the reference from https://github.com/vvv214/LDP_Protocols.git.
+Specifically, the implementation of the Square Wave (SW) mechanism is referenced from https://github.com/vvv214/LDP_Protocols.git.
